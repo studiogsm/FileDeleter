@@ -2,7 +2,7 @@
 
 **Fast bulk file deletion tool with scan-before-delete workflow**
 
-Developed by [Laboratorium Elektroniki](https://laboratorium-elektroniki.pl) — Krystian Zarzecki
+Developed by [Laboratorium Elektroniki](https://laboratoriumelektroniki.pl) — Krystian Zarzecki
 
 ---
 
